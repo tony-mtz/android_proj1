@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CS453_Assign_1</string>
+    <string name="username">Username</string>
+    <string name="input_username">Enter Username</string>
+    <string name="password">Password</string>
+    <string name="submit">Login</string>
+    <string name="title_activity_new__user">New_User</string>
+</resources>
